@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\2.tl\2.tl\bin\Debug\2.tl.exe.config
+C:\Users\ADMIN\source\repos\2.tl\2.tl\bin\Debug\2.tl.exe
+C:\Users\ADMIN\source\repos\2.tl\2.tl\bin\Debug\2.tl.pdb
+C:\Users\ADMIN\source\repos\2.tl\2.tl\obj\Debug\2.tl.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\2.tl\2.tl\obj\Debug\2.tl.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\2.tl\2.tl\obj\Debug\2.tl.exe
+C:\Users\ADMIN\source\repos\2.tl\2.tl\obj\Debug\2.tl.pdb
+C:\Users\ADMIN\source\repos\2.tl\2.tl\obj\Debug\2.tl.exe.config
